@@ -10,23 +10,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/EmePin/RestauranteJava">
-    <img src="PlatillosJava/logo.png" alt="Logo" width="100" height="100">
+  <a href="https://github.com/EmePin/PlatillosJava">
+    <img src="images_readme/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">RestauranteJava 😎</h3>
+  <h3 align="center">PlatillosJava 😎</h3>
 
   <p align="center">
     An awesome Software for restaurants in Java!
     <br />
-    <a href="https://github.com/EmePin/RestauranteJava"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/EmePin/PlatillosJava"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/EmePin/RestauranteJava">View Demo</a>
+    <a href="https://github.com/EmePin/PlatillosJava">View Demo</a>
     ·
-    <a href="https://github.com/EmePin/RestauranteJava/issues">Report Bug</a>
+    <a href="https://github.com/EmePin/PlatillosJava/issues">Report Bug</a>
     ·
-    <a href="https://github.com/EmePin/RestauranteJava/issues">Request Feature</a>
+    <a href="https://github.com/EmePin/PlatillosJava/issues">Request Feature</a>
   </p>
 </div>
 
@@ -118,7 +118,7 @@ Neatbeans y jdk 1.8.
     git clone https://github.com/your_username_/Project-Name.git
     ```
 2. In the location of the Miconexion folder creates an X database
-![Alt text](PlatillosJavaimage.png)
+![Alt text](images_readme/image.png)
 3. RUN!!!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,12 +126,12 @@ Neatbeans y jdk 1.8.
 
 ## Usage 
 
-![Alt text](PlatillosJavaimage-1.png)
-![Alt text](PlatillosJavaimage-2.png)
-![Alt text](PlatillosJavaimage-3.png)
-![Alt text](PlatillosJavaimage-4.png)
-![Alt text](PlatillosJavaimage-5.png)
-![Alt text](PlatillosJavaimage-6.png)
+![Alt text](images_readme/image-1.png)
+![Alt text](images_readme/image-2.png)
+![Alt text](images_readme/image-3.png)
+![Alt text](images_readme/image-4.png)
+![Alt text](images_readme/image-5.png)
+![Alt text](images_readme/image-6.png)
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -141,7 +141,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/EmePin/RestauranteJava/blob/main/LICENSE.txt) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/EmePin/PlatillosJava/blob/main/LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +152,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/EmePin/Resta
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eme_aim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aimee-pineda/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@aimeepineda8400)
 
 -   **Github** : [EmePin](https://github.com/EmePin/)
--   **Project Link** : [RestauranteJava](https://github.com/EmePin/RestauranteJava)
+-   **Project Link** : [PlatillosJava](https://github.com/EmePin/PlatillosJava)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +164,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 -   [Choose an Open Source License](https://choosealicense.com)
 -   [Img Shields](https://github.com/alexandresanlim/Badges4-README.md-Profile#-artificial-intelligence-)
--   [RestauranteJava](https://github.com/othneildrew/RestauranteJava)
+-   [PlatillosJava](https://github.com/othneildrew/PlatillosJava)
 -   [Flavicon](https://www.flaticon.es/)
 
 -   [Google Fonts](https://fonts.google.com/)
@@ -181,16 +181,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- repo info -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/EmePin/RestauranteJava.svg?style=for-the-badge
-[contributors-url]: https://github.com/EmePin/RestauranteJava/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/EmePin/RestauranteJava.svg?style=for-the-badge
-[forks-url]: https://github.com/EmePin/RestauranteJava/network/members
-[stars-shield]: https://img.shields.io/github/stars/EmePin/RestauranteJava.svg?style=for-the-badge
-[stars-url]: https://github.com/EmePin/RestauranteJava/stargazers
-[issues-shield]: https://img.shields.io/github/issues/EmePin/RestauranteJava.svg?style=for-the-badge
-[issues-url]: https://github.com/EmePin/RestauranteJava/issues
-[license-shield]: https://img.shields.io/github/license/EmePin/RestauranteJava.svg?style=for-the-badge
-[license-url]: https://github.com/EmePin/RestauranteJava/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/EmePin/PlatillosJava.svg?style=for-the-badge
+[contributors-url]: https://github.com/EmePin/PlatillosJava/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/EmePin/PlatillosJava.svg?style=for-the-badge
+[forks-url]: https://github.com/EmePin/PlatillosJava/network/members
+[stars-shield]: https://img.shields.io/github/stars/EmePin/PlatillosJava.svg?style=for-the-badge
+[stars-url]: https://github.com/EmePin/PlatillosJava/stargazers
+[issues-shield]: https://img.shields.io/github/issues/EmePin/PlatillosJava.svg?style=for-the-badge
+[issues-url]: https://github.com/EmePin/PlatillosJava/issues
+[license-shield]: https://img.shields.io/github/license/EmePin/PlatillosJava.svg?style=for-the-badge
+[license-url]: https://github.com/EmePin/PlatillosJava/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/aimee-pineda
 [paypal-shield]: https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
